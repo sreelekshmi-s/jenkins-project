@@ -1,0 +1,2 @@
+file added to branch feature/merge2
+Added as a part of assignment
